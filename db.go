@@ -29,6 +29,3 @@ func Close() {
 	Db.Close()
 }
 
-func Install(loadTestData bool) {
-
-}
