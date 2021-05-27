@@ -1,3 +1,3 @@
-module github.com/mikelpsv/mod-micro-app.git
+module github.com/mikelpsv/mod_micro_app.git
 
 go 1.15
