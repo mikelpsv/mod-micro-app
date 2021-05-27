@@ -1,4 +1,4 @@
-module github.com/mikelpsv/mod_micro_app.git
+module github.com/mikelpsv/mod_micro_app
 
 go 1.15
 
