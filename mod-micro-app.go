@@ -1,1 +1,5 @@
-package app
+package mod_micro_app
+
+func Version()  string {
+	return "v1"
+}

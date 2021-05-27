@@ -1,4 +1,4 @@
-package app
+package mod_micro_app
 
 import (
 	"database/sql"
