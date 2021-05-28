@@ -18,7 +18,7 @@ type TokenPair struct {
 	RefreshToken string `json:"refresh_token"`
 }
 
-var TempSecret = "123"
+var TempSecret = "12345"
 
 // https://levelup.gitconnected.com/crud-restful-api-with-go-gorm-jwt-postgres-mysql-and-testing-460a85ab7121
 
